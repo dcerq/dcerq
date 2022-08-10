@@ -39,9 +39,8 @@ const me = {
 
 ## GitHub stats
 
-<span align="center">
+<div align="center">
   <a href="https://github.com/dcerq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcerq&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="daiane github stats"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcerq&layout=compact&langs_count=7&theme=cobalt" alt="daiane github stats"/>
    
-</span>
+</div>
