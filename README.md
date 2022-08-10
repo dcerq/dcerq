@@ -40,7 +40,7 @@ const me = {
 GitHub stats 
 <div align="center">
   <a href="https://github.com/dcerq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcerq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcerq&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dcerq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcerq&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 
 </div>
