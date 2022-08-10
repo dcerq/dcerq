@@ -1,16 +1,46 @@
-### Hi there 👋
+# :octocat: Daiane Cerqueira | @dcerq
 
-<!--
-**dcerq/dcerq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/lucas-lm)](https://github.com/dcerq)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/lucas-lm/)](https://www.linkedin.com/in/daiane-cerqueira/)
+[![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:ddaiane.cerqueira@outlook.com)](mailto:ddaiane.cerqueira@outlook.com)
 
-Here are some ideas to get you started:
+💻 I'm currently learning HTML, CSS and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href="#about-me">About me</a>
+  ·
+  <a href="#skills-check">My Skillset</a>
+  ·
+  <a href="#github-stats">GitHub Stats</a>
+</p>
+
+## About me
+
+```js
+const me = {
+  name: 'Daiane Cerqueira',
+  age: 24,
+  likesToDo: ['Coding', 'Playing games', 'Watching series and movies'],
+  favorite: {
+    food: 'french fries',
+    color: 'blue',
+    anime: 'Avatar: The Last Airbender',
+    games: ['Stardew valley', 'Brawl Stars'],
+    song: 'Paisagem - Emicida'
+  }
+}
+```
+
+## Skillset
+
+<img src="https://img.shields.io/badge/-HTML%205-E34F26?logo=HTML5&logoColor=white&labelColor=E34F26" alt="Html" /> <img src="https://img.shields.io/badge/-CSS%203-1572B6?logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" />
+
+<!-- ### Side projects -->
+
+## GitHub stats
+
+<div align="center">
+  <a href="https://github.com/dcerq">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcerq&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcerq&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
