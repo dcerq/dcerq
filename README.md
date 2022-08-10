@@ -37,7 +37,7 @@ const me = {
 
 <!-- ### Side projects -->
 
-GitHub stats 
+## GitHub stats 
 <div align="center">
   <a href="https://github.com/dcerq">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dcerq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
