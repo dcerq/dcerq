@@ -37,7 +37,7 @@ const me = {
 
 <!-- ### Side projects -->
 
-## GitHub stats
+<!--GitHub stats -->
 
 <div align="center">
   <a href="https://github.com/dcerq">
