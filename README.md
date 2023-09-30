@@ -19,7 +19,7 @@
 ```js
 const me = {
   name: 'Daiane Cerqueira',
-  age: 24,
+  age: 25,
   likesToDo: ['Coding', 'Playing games', 'Watching series and movies'],
   favorite: {
     food: 'french fries',
@@ -33,7 +33,7 @@ const me = {
 
 ## Skillset
 
-<img src="https://img.shields.io/badge/-HTML%205-E34F26?logo=HTML5&logoColor=white&labelColor=E34F26" alt="Html" /> <img src="https://img.shields.io/badge/-CSS%203-1572B6?logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/%20-Linux-34F26?style=plastic&logo=Linux&logoColor=white&labelColor=34F26&color=blue" alt="LINUX" /> <img src="https://img.shields.io/badge/-CSS%203-1572B6?logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" />
 
 <!-- ### Side projects -->
 
